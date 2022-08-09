@@ -1,6 +1,8 @@
 h1{
     color: red;
 }
+
+/*Change completed tasks style color to gray and add a strike though to the text */
 .completed{
     color: gray;
     text-decoration: line-through;
